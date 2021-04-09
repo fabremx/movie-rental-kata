@@ -1,0 +1,22 @@
+{
+  "name": "movie-rental-kata",
+  "version": "1.0.0",
+  "description": "Typescript implementation of the kata \"Rental Movie\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "cover": "jest --coverage"
+  },
+  "keywords": [
+    "kata",
+    "refactoring"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.0",
+    "jest": "^26.0.1",
+    "ts-jest": "^26.1.0",
+    "typescript": "^3.9.5"
+  }
+}
